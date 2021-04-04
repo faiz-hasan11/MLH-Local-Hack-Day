@@ -2,8 +2,8 @@ import discord
 import requests
 from pprint import pprint
 import json
-token = "ODI4MzkyMzM3MzQzNjQzNjk4.YGo6fA.inERymAjz5Fg7kuZ5gNG-2bo9xo"
-api_key = "95b1746ab343123248bb80f9e3faf516"
+token = "Discord Token"
+api_key = "Weather API key"
 client = discord.Client()
 
 key_features = {
